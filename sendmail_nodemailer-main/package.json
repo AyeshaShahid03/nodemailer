@@ -1,0 +1,30 @@
+{
+  "name": "send_mail_from_googleworkspace",
+  "version": "1.0.0",
+  "description": "Send mail using google workspace",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findahmad/sendmail_nodemailer.git"
+  },
+  "keywords": [
+    "node_mailer",
+    "Google",
+    "Workspace"
+  ],
+  "author": "Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findahmad/sendmail_nodemailer/issues"
+  },
+  "homepage": "https://github.com/findahmad/sendmail_nodemailer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2",
+    "i": "^0.3.7",
+    "nodemailer": "^6.9.1"
+  }
+}
