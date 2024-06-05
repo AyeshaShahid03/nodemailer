@@ -26,5 +26,8 @@
     "env": "^0.0.2",
     "i": "^0.3.7",
     "nodemailer": "^6.9.1"
-  }
+  },
+    "compilerOptions": {
+      "types": ["express"]
+    }
 }
